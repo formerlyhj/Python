@@ -77,7 +77,7 @@ np.random.randn(50)
 
 
 
-![scatter](C:.\matplotlib_test\png\scatter.png)
+![scatter](.\matplotlib_test\png\scatter.png)
 
 [官方文档](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
 
