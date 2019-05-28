@@ -75,9 +75,9 @@ np.random.randn(50)
 在-1.96～+1.96范围内曲线下的面积等于0.9500（即取值在这个范围的概率为95%），在-2.58～+2.58范围内曲线下面积为0.9900（即取值在这个范围的概率为99%）. 
 因此，由 np.random.randn()函数所产生的随机样本基本上取值主要在-1.96~+1.96之间，当然也不排除存在较大值的情形，只是概率较小而已。
 
-![scatter](C:\Users\hj137\Desktop\scatter.png)
 
-![s2](C:\Users\hj137\Desktop\s2.png)
+
+![scatter](C:.\matplotlib_test\png\scatter.png)
 
 [官方文档](https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py)
 
