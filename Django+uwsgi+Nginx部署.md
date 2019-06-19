@@ -63,8 +63,8 @@ chdir= /Users/admin/Desktop/项目1/代码/GuLiEdu
 
 # Django s wsgi file
 module= GuLiEdu.wsgi:application
-;wsgi-file= GuLiEdu/wsgi.py:application
-; process-related settings
+#wsgi-file= GuLiEdu/wsgi.py:application
+# process-related settings
 # master允许主线程存在
 master= true
 
@@ -119,7 +119,7 @@ server {
         alias /app/mysit/static/;
 
         }
-#如果有media，再加一项别名就洗
+#如果有media，再加一项别名就行
 
 　　　 #　location /media/ {
       #     　　alias  /home/yixiang/Practice/Python/nginx_django/test_project/media/;
